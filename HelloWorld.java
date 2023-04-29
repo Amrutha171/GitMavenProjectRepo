@@ -2,8 +2,16 @@
 public class HelloWorld {
 
 	public static void main(String[] args) {
+		String text="Hi";
+		if(text=="Hi")
+		{
 		System.out.println("Hello World");
-		// TODO Auto-generated method stub
+		
+		}
+		else
+		{
+			System.out.println("Hello");
+		}
 
 	}
 }
